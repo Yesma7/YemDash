@@ -1,0 +1,23 @@
+Workflow Yesma7 - Dashboard.
+Steps:
+
+1. Build the Landing - Basics
+2. Convert to Vue js Usability
+3. Build Orari over this
+4. Publish
+
+Work plan by Steps
+1. Build the Landing - Basics:
+    Technologies to use:
+        * Bootstrap
+        * Javascript
+        * Jquery
+        * Ajax
+        * CSS (First) - SAAS (Convert with Gulp later).
+
+2. Convert to Vue js Usability and Build Orari over this:
+    In base to Orari, convert to Vue js (Let one clean to future projects)
+
+
+EAT: 3 Weeks
+
